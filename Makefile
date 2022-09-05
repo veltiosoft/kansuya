@@ -7,7 +7,7 @@ setup: clean
 	tar -xvf vss_linux_amd64.tar.gz
 	cp vss_linux_amd64/vss .
 
-setup-win:
+setup-win: clean
 	curl -OL https://github.com/vssio/vss/releases/latest/download/vss_windows_amd64.zip
 	unzip vss_windows_amd64.zip
 	cp vss_windows_amd64/vss.exe .

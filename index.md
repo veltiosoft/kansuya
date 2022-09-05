@@ -8,4 +8,4 @@
 
 <!-- vss がフォルダのPATHに対応できていないのでこのPATHになってる -->
 
-- [Hello World](./helloworld.md)
+- [Hello World](./snippets/helloworld.md)
