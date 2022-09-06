@@ -1,0 +1,6 @@
+[[job]]
+name = "serve"
+type = "command"
+command = "vss build"
+when = ["modified"]
+glob = ["*.md", "./snippets/*.md", "./static/*", "./layouts/*"]
