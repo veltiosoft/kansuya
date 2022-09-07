@@ -1,2 +1,3 @@
 title = "かんすうや"
 description = "かんすうやは様々なプログラミング言語を使って実装したかんすうを公開しているサイトです。"
+baseUrl = 'https://veltiosoft.github.io/kansuya/'
