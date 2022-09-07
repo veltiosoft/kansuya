@@ -4,3 +4,7 @@ vss_*
 
 # vss dist
 dist
+
+# python venv
+venv
+.venv
