@@ -6,4 +6,4 @@
 
 ## かんすう一覧
 
-- [Hello World](./snippets/helloworld.md)
+- [Hello World](./snippets/helloworld)
